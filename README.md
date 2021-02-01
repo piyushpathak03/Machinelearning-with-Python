@@ -1,19 +1,10 @@
-[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
-[![GitHub forks](https://img.shields.io/github/forks/tirthajyoti/Machine-Learning-with-Python.svg)](https://github.com/tirthajyoti/Machine-Learning-with-Python/network)
-[![GitHub stars](https://img.shields.io/github/stars/tirthajyoti/Machine-Learning-with-Python.svg)](https://github.com/tirthajyoti/Machine-Learning-with-Python/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tirthajyoti/Machine-Learning-with-Python/pulls)
-
 # Python Machine Learning Jupyter Notebooks ([ML website](https://machine-learning-with-python.readthedocs.io/en/latest/))
 
-### Dr. Tirthajyoti Sarkar, Fremont, California ([Please feel free to connect on LinkedIn here](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7))
+### Piyush Pathak ([Please feel free to connect on LinkedIn here](https://www.linkedin.com/in/piyushpathak03/))
 
 ---
 
 ## Also check out these super-useful Repos that I curated
-
-[Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
-
-[Carefully curated resource links for data science in one place](https://github.com/tirthajyoti/Data-science-best-resources)
 
 ## Requirements
 * **Python 3.6+**
@@ -32,23 +23,6 @@
 * **pdpipe (`pip install pdpipe`)**
 
 ---
-
-You can start with this article that I wrote in Heartbeat magazine (on Medium platform): 
-### ["Some Essential Hacks and Tricks for Machine Learning with Python"](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)
-<img src="https://cookieegroup.com/wp-content/uploads/2018/10/2-1.png" width="450" height="300"/>
-
-## Essential tutorial-type notebooks on Pandas and Numpy
-Jupyter notebooks covering a wide range of functions and operations on the topics of NumPy, Pandans, Seaborn, Matplotlib etc.
-
-* [Detailed Numpy operations](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_operations.ipynb)
-* [Detailed Pandas operations](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Pandas_Operations.ipynb)
-* [Numpy and Pandas quick basics](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb)
-* [Matplotlib and Seaborn quick basics](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Matplotlib_Seaborn_basics.ipynb)
-* [Advanced Pandas operations](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Advanced%20Pandas%20Operations.ipynb)
-* [How to read various data sources](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/How%20to%20read%20various%20sources%20in%20a%20DataFrame.ipynb)
-* [PDF reading and table processing demo](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/PDF%20table%20reading%20and%20processing%20demo.ipynb)
-* [How fast are Numpy operations compared to pure Python code?](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/How%20fast%20are%20NumPy%20ops.ipynb) (Read my [article](https://towardsdatascience.com/why-you-should-forget-for-loop-for-data-science-code-and-embrace-vectorization-696632622d5f) on Medium related to this topic)
-* [Fast reading from Numpy using .npy file format](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Reading.ipynb) (Read my [article](https://towardsdatascience.com/why-you-should-start-using-npy-file-more-often-df2a13cc0161) on Medium on this topic)
 
 ## Tutorial-type notebooks covering regression, classification, clustering, dimensionality reduction, and some basic neural network algorithms
 
